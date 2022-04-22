@@ -3,6 +3,8 @@ Image-Editor-Android-App
 
 The simple android image editor for crop, flip, rotate access.
 
+Transformer (made as Builder) a image editor - rotate, flip, resize, scale, crop a image. Memory optimization are present (use cache file by default).
+Converter a image from view.
 
 
 
